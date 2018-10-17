@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Sudoku Solver, Configuration: Debug Win32 ------
+1>main.c
+1>c:\users\mattc\google drive\university\c\week 4\sudoku solver\sudoku solver\main.c(21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>c:\users\mattc\google drive\university\c\week 4\sudoku solver\sudoku solver\main.c(31): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+1>c:\users\mattc\google drive\university\c\week 4\sudoku solver\sudoku solver\main.c(31): warning C4024: 'checker': different types for formal and actual parameter 1
+1>Sudoku Solver.vcxproj -> C:\Users\mattc\Google Drive\University\C\Week 4\Sudoku Solver\Debug\Sudoku Solver.exe
+1>Done building project "Sudoku Solver.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
