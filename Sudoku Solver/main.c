@@ -76,8 +76,6 @@ int getRow(int *sudoku, int row)
 
 	for (int i = 0; i < 4; i++)
 	{
-		//printf("%d", sudoku[i + row * 4]); //Prints the row
-
 		rowArray[i] = sudoku[i + row * 4];
 	}
 
@@ -95,8 +93,6 @@ int getColumn(int *sudoku, int column)
 
 	for (int i = 0; i < 4; i++)
 	{
-		//printf("%d", sudoku[i * 4 + column]); //Prints the column
-
 		columnArray[i] = sudoku[i * 4 + column];
 	}
 
